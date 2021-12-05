@@ -12,7 +12,7 @@ export default {
   },
   data() {
     return {
-      count: 99
+      count: 0
     }
   }
 }
